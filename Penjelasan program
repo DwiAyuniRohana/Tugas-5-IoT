@@ -1,0 +1,3 @@
+Pada program ini, ada home device yakni garage,door,dan furnace. Selain itu saya juga menggunakan 1 monitor temperature, 
+1 buah server, 1 buah home gateway dan 1 buah switch. Jadi pada program yang dibuat ini adalah, apabila suhu mencapai lebih dari 50 maka furnace akan on atau terbuka 
+dan garage akan terbuka juga. Sedangkan apabila suhu dibawah 50 derajat, maka garage akan tertutup dan furnace dalam keadaan off atau tertutup. 
