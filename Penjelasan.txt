@@ -1,0 +1,4 @@
+Pada praktikum ini terdapat 2 device yaitu fan dan window, kemudian 1 sensor pendeteksi gerak, 1 end device PC, 1 switch PT dan 1 server. 
+Dan Registration Server dengan user: ayuni dan password: ayuni.
+Pada praktimum ini terdapat ruang tamu yang menggunakan sensor pendeteksi gerak, jika sensor mendeteksi adanya pergerakan maka fan akan menyala dan window akan tertutup atau close.
+Jika sensor tidak mendeteksi adanya pergerakan maka fan akan off dan window akan terbuka atau open karena ruang tamu mendapat udara lebih dari luar.
